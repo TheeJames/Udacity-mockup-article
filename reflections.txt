@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+- I learned that I should re-read directions.
+- I learned the structuring of HTML is unique and definitely requires practice
+-I also learned that <h1>-<h6> is a size reference
+
+-text such as italics or bold were easy. although I used <strong>, maybe <b>
+was a better choice
+-Syntax for HTML is not very complicated
+
+-learning to space paragraphs, heading and spans. I have a strong feeling
+that I "over-coded" this project quite a bit
+-Structuring of HTML
+
+-This is my first project if I'm not mistaken. However my problem solving
+strategies teeter on a balance of taking breaks to absorb the information
+and the getting back at it and hammering away. It takes time to read through
+MDN Documentation, test it out and properly implement it. Although HTML is
+nice in that its complexity is not overwhelming, It still going to take some
+time to become proficient or perhaps "fluent".
